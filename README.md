@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <head>
   <h1>My Introduction</h1>
-  <h2>Hello! I am Fatima!</h2>
+  <h2>Hello! I am Fatima! I am currently majoring in Full-Stack WebDesign here at ASU! I really hope to be using my degree at a tech company since I have been enojoying coding so far, the reason I have been liking to code is because it is fun to solve problems ! No wonder I always want to learn challenging things !</h2>
 </head>
 
