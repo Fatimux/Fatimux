@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   <h1>My Introduction</h1>
 </head>
 <meta charset="utf-8>
+  
 <body>
-<p>Hello Everybody!</p>
+<p>Hello Everybody!
+  </p>
   </body>
 
