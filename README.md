@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 <head>
   <h1>My Introduction</h1>
+  <h2>Hello! I am Fatima!</h2>
 </head>
-<meta charset="utf-8>
-  
-<body>
-<p>Hello Everybody!
-  </p>
-  </body>
 
