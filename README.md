@@ -1,21 +1,10 @@
 ## Hi there 👋
+I am Fatima Rodriguez
 
-<!--
-**Fatimux/Fatimux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently majoring in Full Stack Web Development at ASU
+- 🌱 I’m currently learning HTML
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about my life!
+- 📫 How to reach me: anahifatimaoo2@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<head>
-  <h1>My Introduction</h1>
-  <h2>Hello! I am Fatima! I am currently majoring in Full-Stack WebDesign here at ASU! I really hope to be using my degree at a tech company since I have been enojoying coding so far, the reason I have been liking to code is because it is fun to solve problems ! No wonder I always want to learn challenging things !</h2>
-</head>
 
